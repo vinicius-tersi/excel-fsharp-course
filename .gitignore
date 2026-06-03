@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+.vs/
+
+# Credenciais (módulos futuros de integração com APIs)
+credentials*.json
+token*.json
+client_secret*.json
+service-account*.json

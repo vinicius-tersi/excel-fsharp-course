@@ -1,0 +1,18 @@
+{
+  "name": "F# para Contadores",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:1-10.0-bookworm",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Ionide.Ionide-fsharp"
+      ],
+      "settings": {
+        "FSharp.inlayHints.enabled": true,
+        "FSharp.inlayHints.typeAnnotations": true,
+        "FSharp.inlayHints.parameterNames": true,
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "postCreateCommand": "dotnet --list-sdks"
+}

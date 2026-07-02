@@ -2,6 +2,7 @@ bin/
 obj/
 *.user
 .vs/
+.idea/
 
 # Credenciais (módulos futuros de integração com APIs)
 credentials*.json

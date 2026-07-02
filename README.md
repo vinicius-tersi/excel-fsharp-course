@@ -4,6 +4,9 @@ Curso interno de F# para contadores da equipe, a partir da experiência que já 
 
 ## Como abrir e usar
 
+> 🚀 **Primeira vez?** Comece pelo [ONBOARDING.md](ONBOARDING.md) — ele te leva
+> do zero (abrir o Codespace no GitHub) até rodar o Módulo 0.
+
 1. Abrir o link do Codespace que o instrutor compartilhar.
 2. Esperar o VS Code carregar no browser (1–3 min na primeira vez — o ambiente está sendo montado).
 3. No painel esquerdo, abrir a pasta do módulo da aula (ex.: `modulo-00-ambiente/`).

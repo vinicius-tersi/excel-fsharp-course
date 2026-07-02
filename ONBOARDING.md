@@ -25,6 +25,13 @@ GitHub. Se pedir login, entre com sua conta.
 
 Uma nova aba abre com o VS Code rodando dentro do navegador.
 
+> 📌 **Crie sempre a partir da `main`.** Sua branch de trabalho (onde você
+> guarda as tarefas) ainda não existe agora — você vai criá-la *dentro* do
+> Codespace, mais tarde, seguindo o passo "criar sua branch" do
+> [README](README.md#-uma-vez-só-antes-da-primeira-tarefa-criar-sua-branch).
+> A partir do 2º dia, ao **reabrir** o Codespace você já volta na sua branch,
+> de onde parou — não estranhe se não estiver mais na `main`.
+
 ### 3. Espere o ambiente montar ⏳
 
 **Na primeira vez, isso leva de 1 a 3 minutos.** É normal — o ambiente de

@@ -15,6 +15,6 @@
       }
     }
   },
-  "onCreateCommand": "echo 'printfn \"warmup ok\"' | dotnet fsi --use:/dev/stdin",
+  "onCreateCommand": "printf 'printfn \"warmup ok\"\\n' > /tmp/warmup.fsx && dotnet fsi /tmp/warmup.fsx",
   "postCreateCommand": "dotnet --list-sdks"
 }

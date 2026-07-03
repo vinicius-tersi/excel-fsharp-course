@@ -1,6 +1,6 @@
 {
   "name": "F# para Contadores",
-  "image": "mcr.microsoft.com/devcontainers/dotnet:1-10.0-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:10.0",
   "hostRequirements": { "cpus": 4 },
   "customizations": {
     "vscode": {
